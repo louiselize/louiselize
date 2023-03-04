@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi👋
+
+My name is Louise Lizé and I am a computer science student and I am doing a double degree at UTC and UQAC.
+I am looking for an internship in Artificial Intelligence and Data Science for september 2023 📈.
+
+I am a hard worker and I am eager to learn new skills and gain experience in the field!
+
+I am excited to explore the opportunities available preferably in Canada but I remain open to all suggestions⚡
+
+
 
 <!--
 **louiselize/louiselize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
