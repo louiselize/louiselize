@@ -1,11 +1,15 @@
-### Hi👋
+### Welcome to my Github profile! 👋
 
-My name is Louise Lizé and I am a computer science student and I am doing a double degree at UTC and UQAC.
-I am looking for an internship in Artificial Intelligence and Data Science for september 2023 📈.
 
-I am a hard worker and I am eager to learn new skills and gain experience in the field!
+My name is Louise Lizé, and I am a computer science student engineer with a specialization in AI and Data Science 📈. 
 
-I am excited to explore the opportunities available preferably in Canada but I remain open to all suggestions⚡
+Although I am originally studying at the French engineering university [UTC](https://www.utc.fr), I am currently pursuing a double degree program at [UQAC](https://www.uqac.ca) in Canada, which has allowed me to expand my horizons and gain a unique perspective on my field of study. 
+
+As I look ahead to my future career, I am eager to gain industry experience through a 6-month internship starting in September 2023, with a preference for opportunities located in Montreal. However, I am also open to exploring opportunities elsewhere in the world. 🔭
+
+On this platform, you can explore a selection of my favorite projects, both those I completed during my studies at school and those I pursued independently outside of the classroom. 💻
+
+Please feel free to explore my repositories and connect with [me](https://www.linkedin.com/in/louise-lize/) on LinkedIn!
 
 
 
