@@ -7,7 +7,7 @@ Although I am originally studying at the French engineering university [UTC](htt
 
 As I look ahead to my future career, I am eager to gain industry experience through a 6-month internship starting in September 2023, with a preference for opportunities located in Montreal. However, I am also open to exploring opportunities elsewhere in the world. 🔭
 
-On this platform, you can explore a selection of my favorite projects, both those I completed during my studies at school and those I pursued independently outside of the classroom. 💻
+You can explore a selection of my favorite projects, both those I completed during my studies at school and those I pursued independently outside of the classroom. 💻
 
 Please feel free to explore my repositories and connect with [me](https://www.linkedin.com/in/louise-lize/) on LinkedIn!
 
