@@ -1,15 +1,24 @@
-### Welcome to my Github profile! 👋
+# Louise Lizé
+
+Hello! I'm Louise, passionate about the intersection of technology development, data, and societal subjects related to education, sports, energy transition, and health. My work and studies reflect a commitment to integrating technological advancements with meaningful societal impact.
+
+## Professional Background
+
+🌍 **Currently:** I'm a Software Data Engineer at [Odite Sagemcom](https://odit-e.com/en/). My role as a Software Data Engineer involves tackling projects directly related to climate engagement, focusing on developing solutions that facilitate the transition to sustainable energy.
+
+🎓 **Education:** I graduated as a Computer Science Engineer from the French engineering university [UTC](https://www.utc.fr) and completed a double degree program at [UQAC](https://www.uqac.ca) in Canada. My education has provided me with a solid foundation in AI, Data Science, and software development skills.
+
+## Previous Experience
+
+👩‍💻 **Past Role at Thales DIS:** During my internship, I worked as a CX Management Intern at [Thales DIS](https://www.thalesgroup.com/en/markets/digital-identity-and-security), focusing on cloud tmigration. Additionally, I led the development of an AI LLM tool designed to rapidly analyze customer satisfaction. This project culminated in a proof of concept that my team and I successfully presented at the Thales AI Hackathon, winning first place among 70 entries.
 
 
-My name is Louise Lizé, and I am a computer science student engineer with a specialization in AI and Data Science 📈. 
+👨‍💻 **Previous Job at Olvid:** As a Fullstack Intern at [Olvid](https://olvid.io), I used Vue.js and Java to help company administrators manage and integrate Olvid's product: secure instant messaging. This role enhanced my full-stack development skills and underscored the importance of secure communication within corporations.
 
-Although I am originally studying at the French engineering university [UTC](https://www.utc.fr), I am currently pursuing a double degree program at [UQAC](https://www.uqac.ca) in Canada, which has allowed me to expand my horizons and gain a unique perspective on my field of study. 
 
-🔭 I’m currently working at [Thales DIS](https://www.thalesgroup.com/en/markets/digital-identity-and-security) as a CX management intern, focusing on cloud migration within the company since September 2023. I am actively engaged in data analysis while simultaneously learning to understand cloud transformation.
+## Connect with Me
 
-You can explore a selection of my favorite projects, both those I completed during my studies at school and those I pursued independently outside of the classroom. 💻
-
-Please feel free to explore my repositories and connect with [me](https://www.linkedin.com/in/louise-lize/) on LinkedIn!
+Feel free to explore my repositories and see the projects I've been involved in, from academic work to professional engagements. Also, don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/louise-lize/) to discuss potential collaborations or simply to share insights on technology and energy solutions.
 
 
 
