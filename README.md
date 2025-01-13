@@ -4,7 +4,7 @@ Hello! I'm Louise, passionate about the intersection of technology development, 
 
 ## Professional Background
 
-🌍 **Currently:** I'm a Software Data Engineer at [Odite Sagemcom](https://odit-e.com/en/). My role as a Software Data Engineer involves tackling projects directly related to climate engagement, focusing on developing solutions that facilitate the transition to sustainable energy.
+⚡ **Currently:** I'm a **Software Data Engineer** at [Odite Sagemcom](https://odit-e.com/en/). My role involves enabling search algorithms to be effectively used by clients, specifically network managers. I primarily work on backend development, focusing on building APIs and managing data workflows before and after the application of the search algorithms. This is all within the context of improving the distribution and understanding of low-voltage electrical networks.
 
 🎓 **Education:** I graduated as a Computer Science Engineer from the French engineering university [UTC](https://www.utc.fr) and completed a double degree program at [UQAC](https://www.uqac.ca) in Canada. My education has provided me with a solid foundation in AI, Data Science, and software development skills.
 
