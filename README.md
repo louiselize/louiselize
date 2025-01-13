@@ -10,7 +10,7 @@ Hello! I'm Louise, passionate about the intersection of technology development, 
 
 ## Previous Experience
 
-👩‍💻 **Past Role at Thales DIS:** During my internship, I worked as a CX Management Intern at [Thales DIS](https://www.thalesgroup.com/en/markets/digital-identity-and-security), focusing on cloud tmigration. Additionally, I led the development of an AI LLM tool designed to rapidly analyze customer satisfaction. This project culminated in a proof of concept that my team and I successfully presented at the Thales AI Hackathon, winning first place among 70 entries.
+👩‍💻 **Past Role at Thales DIS:** During my internship, I worked as a CX Management Intern at [Thales DIS](https://www.thalesgroup.com/en/markets/digital-identity-and-security), focusing on cloud migration. Additionally, I led the development of an AI LLM tool designed to rapidly analyze customer satisfaction. This project culminated in a proof of concept that my team and I successfully presented at the Thales AI Hackathon, winning first place among 70 entries.
 
 
 👨‍💻 **Previous Job at Olvid:** As a Fullstack Intern at [Olvid](https://olvid.io), I used Vue.js and Java to help company administrators manage and integrate Olvid's product: secure instant messaging. This role enhanced my full-stack development skills and underscored the importance of secure communication within corporations.
